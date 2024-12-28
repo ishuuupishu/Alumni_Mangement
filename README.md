@@ -3,7 +3,7 @@
 ## Project Description
 This project is a web-based application designed  to manage alumni data efficiently. The application is built using **Laravel** (backend) and **Vue.js** (frontend) and features authentication, a dashboard, and CRUD operations for managing alumni records. The database is powered by **MySQL**, and the interface is designed with a focus on user experience and simplicity.
 
----
+
 
 ## Features
 
@@ -12,19 +12,18 @@ This project is a web-based application designed  to manage alumni data efficien
 - **Dashboard**: Interactive dashboard to display key alumni statistics.
 - **Responsive UI**: Fully responsive and user-friendly design.
 
----
+
 
 ## Tech Stack
 
 ### Frontend:
 - **Vue.js**
-- **Tailwind CSS** (or replace with your chosen CSS framework)
+- **Tailwind CSS** 
 
 ### Backend:
 - **Laravel**
 - **MySQL** (via phpMyAdmin)
 
----
 
 ## Installation Guide
 
@@ -41,7 +40,7 @@ This project is a web-based application designed  to manage alumni data efficien
 #### 1. Clone the Repository
 ```bash
    git clone https://github.com/ishuuupishu/Alumni_Management.git
-   cd alumni-management
+   cd Alumni_Management
 ```
 
 #### 2. Install Backend Dependencies
@@ -92,7 +91,7 @@ Visit the application in your browser:
 http://127.0.0.1:8000
 ```
 
----
+
 
 ## Usage
 
@@ -103,7 +102,7 @@ http://127.0.0.1:8000
    - Edit existing records.
    - Delete records no longer needed.
 
----
+
 
 ## Folder Structure
 ```plaintext
@@ -120,7 +119,7 @@ http://127.0.0.1:8000
 ├── .env       # Environment variables
 ```
 
----
+
 
 ## Contributing
 
@@ -130,15 +129,11 @@ http://127.0.0.1:8000
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a Pull Request.
 
----
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
 
 ## Contact
 For any queries or contributions:
 - **Name**: Israth Chowdhury
 - **Email**: chowdhuryisrath32@gmail.com
-- **GitHub**: [ishuuupishu](https://github.com/ishuuupishu
+- **GitHub**: [ishuuupishu](https://github.com/ishuuupishu)
